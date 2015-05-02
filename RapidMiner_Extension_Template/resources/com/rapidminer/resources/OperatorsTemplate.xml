@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<operators name="template" version="5.0" docbundle="com/rapidminer/resources/i18n/OperatorsDocTemplate">
+   <group key="data_transformation">
+      <group key="data_cleansing">
+         <operator>
+            <key>correct_values</key>
+            <class>com.rapidminer.operator.correctvalues</class>
+            <replaces>CorrectValues</replaces>
+         </operator>
+      </group>
+   </group>
+</operators>
